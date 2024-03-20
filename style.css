@@ -1,0 +1,16 @@
+.header {
+    background-color: #D94F04;
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center    
+}
+.recipe-link{
+    background-color: #FFB03B;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center
+}
+.heading {
+    background-color: #F2B263;
+    color: black;
+}
